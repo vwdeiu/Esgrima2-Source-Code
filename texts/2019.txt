@@ -1,0 +1,1 @@
+To pick up the item, simply click on it.Note: Inventory must have a slot free.

@@ -1,0 +1,1 @@
+(80kb max/Png,Jpg)

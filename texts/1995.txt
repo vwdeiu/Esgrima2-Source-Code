@@ -1,0 +1,1 @@
+Oh dear, you&apos;ve fainted!When your health reaches zero in battle,your character will fall to the ground and lose XP. 

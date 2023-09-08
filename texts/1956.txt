@@ -1,0 +1,9 @@
+Denar is the currency of Rio de Luz and 
+--- RECORDSEPARATOR ---
+can be used to purchase, craft or
+--- RECORDSEPARATOR ---
+upgrade your equipment.
+--- RECORDSEPARATOR ---
+Visit the Weapon Merchant at the east side of town
+--- RECORDSEPARATOR ---
+to buy your first weapon.

@@ -1,0 +1,1 @@
+To sell an item, drag it to the shop from your inventory. Note: All items sell for 50% of their value, with the exception of enemy drops.
